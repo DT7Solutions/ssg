@@ -5015,3 +5015,7 @@ footer.bg-dark .footer-bottom {
   background: url(assets/img/preloader.gif) center no-repeat #fff;
   text-align: center;
 }
+
+.owl-dots {
+  display: none;
+}
